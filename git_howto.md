@@ -50,3 +50,8 @@ git checkout
 ```sh
 git merge <имя ветки>
 ```
+
+### Удаление веток
+```sh
+git branch -d <имя ветки>
+```
